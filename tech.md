@@ -12,6 +12,7 @@
 - 📅 30.07 [Azure Service Bus - Live with or without you?](https://www.youtube.com/watch?v=3C1zISCZnxQ)
 - 📅 30.07 [The cleanest way to use Docker for testing in .NET](https://www.youtube.com/watch?v=8IRNC7qZBmk)
 - 📅 30.07 [Async w .NET - Webinar Dotnetos [PL]](https://www.youtube.com/watch?v=_l56OAAuRoU)
+- [.NET Microservices](https://learn.dotnetmicroservices.com/)
 
 ###
 
