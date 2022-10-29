@@ -15,3 +15,7 @@
 
 ## Video tutorials
 - https://www.youtube.com/user/danvmartell
+
+
+## Pitch, presentation
+- https://pitch.com/
