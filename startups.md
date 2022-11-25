@@ -12,6 +12,7 @@
 
 ## Marketing
 - https://marketingexamples.com/
+- https://www.scoreapp.com/
 - https://www.zerotomarketing.com/newsletter
 
 ## Video tutorials
